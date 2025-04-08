@@ -22,12 +22,5 @@ Es un ejemplo:
 ### Pag 15
 Que pasa si una de las variables no tiene incertidumbre?
 Se considera como constante
-
-### Pag 16
-![[image-7.png]]
-
 ### Pag 25
 ![[image-9.png]]
-
-### Repaso:
-![[image-8.png]]
